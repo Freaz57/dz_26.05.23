@@ -11,7 +11,7 @@
 
 // int numLength = numText.Length;
 
-// int count = 0;
+
 
 // while (numLength == 5)
 // {
@@ -21,7 +21,7 @@
 //     } else {
 //         Console.WriteLine($"{numText} - Не палиндром");
 //     }
-    
+//     return;
 // }
 // Console.WriteLine($"{numText} - Введите 5 чисел!");
 
